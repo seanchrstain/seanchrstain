@@ -1,6 +1,6 @@
 # Hi, I'm Sean 👋
 
-**Where accounting meets data.** Final-year Bachelor of Accounting (Hons) student at Universiti Malaysia Sabah, applying audit thinking and analytics to financial data.
+**Where accounting meets data.** Final year Bachelor of Accounting (Hons) student at Universiti Malaysia Sabah, applying audit thinking and analytics to financial data.
 
 🌐 [Portfolio website](https://seanchrstain.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/seanchristain) · ✉️ schristain01@gmail.com
 
