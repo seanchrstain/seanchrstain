@@ -26,7 +26,9 @@
 ## 🛠️ Tools
 
 **Data preparation:** Python · pandas · Excel · pdfplumber
+
 **Analysis:** SQL · SQLite · Regex · text analysis
+
 **Communication:** Matplotlib · Jupyter · GitHub
 
 ---
